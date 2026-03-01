@@ -294,6 +294,11 @@ Smart-Agriculturing-Cultivating-Robot/
                          │  Await next command │
                          └─────────────────────┘
 ```
+---
+
+## 🔄 System Art Flowchart
+<img width="647" height="551" alt="Screenshot 2026-03-01 220333" src="https://github.com/user-attachments/assets/fcd0ee82-6ecb-4f5d-bc4f-be6dcd1d63e3" />
+
 
 ---
 
@@ -608,11 +613,6 @@ https://github.com/user-attachments/assets/ded7a4c8-c9a0-46b8-aa36-271d0246864f
 
 > 📷 *The working prototype of the Smart Agriculturing Cultivating Robot, showing the assembled chassis with Arduino UNO, HC-05 Bluetooth module, servo motors, and relay-controlled sprinkler system.*
 
-### Project Documentation
-
-- 📄 [Full Project Report](./docs/Report%20Smart%20Agriculturing%20Cultivating%20Robot.pdf) — Detailed technical report with abstract, block diagram, methodology and results
-- 📊 [Final Review Presentation](./docs/Final%20Review%20-%20Smart%20Agriculturing%20Cultivating%20Robot.pdf) — Complete project presentation slides
-- ☁️ [Google Drive (All Project Files)](https://drive.google.com/drive/folders/1UCsNDjZJ5Gy4UJ5gUqeWmXYvYQ1Fd80i?usp=sharing) — Full project resources including report, code, and images
 
 ---
 
@@ -744,7 +744,6 @@ See the [LICENSE](LICENSE) file for full license details.
 7. [IoT-Based Smart Irrigation Systems — IEEE Research](https://ieeexplore.ieee.org/)
 8. [Smart Agriculture using IoT — Research Overview](https://www.researchgate.net/)
 9. [Bluetooth RC Controller App — Google Play Store](https://play.google.com/store/apps)
-10. [Project Report — Smart Agriculturing Cultivating Robot (2025)](https://drive.google.com/drive/folders/1UCsNDjZJ5Gy4UJ5gUqeWmXYvYQ1Fd80i?usp=sharing)
 
 ---
 
@@ -763,5 +762,6 @@ For support, email arokiyanithishj@gmail.com or create an issue in the GitHub re
 *This project is licensed under the Apache License, Version 2.0.*
 
 </div>
+
 
 
