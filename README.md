@@ -593,13 +593,16 @@ Follow the [Pin Mapping Summary](#pin-mapping-summary) above to connect:
 ## 🖼️ Prototype & Demo
 
 ### Working Prototype Image
-![Prototype of Smart Agriculturing Cultivating Robot](https://github.com/user-attachments/assets/9ed1f4cf-f1fb-4712-97cd-02a38900cf1c)
 
+![Prototype of Smart Agriculturing Cultivating Robot](https://github.com/user-attachments/assets/baf74846-606c-402e-a164-656f8b301cf2)
 
 ### Working Prototype (Demo Video)
 
 
-Uploading Video Project 1 (1).mp4…
+
+https://github.com/user-attachments/assets/ded7a4c8-c9a0-46b8-aa36-271d0246864f
+
+
 
 
 
@@ -760,4 +763,5 @@ For support, email arokiyanithishj@gmail.com or create an issue in the GitHub re
 *This project is licensed under the Apache License, Version 2.0.*
 
 </div>
+
 
