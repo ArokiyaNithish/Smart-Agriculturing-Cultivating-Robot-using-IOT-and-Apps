@@ -694,7 +694,7 @@ to users and protects users from patent litigation.
 
 
 See the [LICENSE](LICENSE) file for full license details.
-```
+
 ---
 
 ## 👨‍💻 Author & Acknowledgments
@@ -748,8 +748,8 @@ For support, email arokiyanithishj@gmail.com or create an issue in the GitHub re
 
 *Made with ❤️ and Arduino C++ by Arokiya Nithish — For the Farming Community of India* 🌾
 
-*Copyright 2025 Arokiya Nithish J (This project is licensed under the Apache License, Version 2.0.)*
+*Copyright 2025 Arokiya Nithish J*
+
+*This project is licensed under the Apache License, Version 2.0.*
 
 </div>
-
-
