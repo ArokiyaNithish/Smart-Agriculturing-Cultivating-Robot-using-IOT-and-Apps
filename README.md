@@ -682,27 +682,18 @@ Please use [GitHub Issues](https://github.com/ArokiyaNithish/Smart-Agriculturing
 
 ## 📄 License
 
-This project is licensed under the **MIT License** — you are free to use, modify, distribute, and build upon this design for educational, personal, or community agricultural purposes with attribution.
+This project is licensed under the **Apache License, Version 2.0** — you are free to use, modify, distribute, and build upon this design for educational, personal, or community agricultural purposes with attribution.
 
 ```
-MIT License
+You are free to use, modify, and distribute this project for educational,
+personal, commercial, or community agricultural purposes, subject to the
+terms of the Apache License 2.0.
 
-Copyright (c) 2025 Arokiya Nithish J
+This license also provides an express grant of patent rights from contributors
+to users and protects users from patent litigation.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
 
-The above copyright notice and this permission notice shall be included in
-all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND...
-```
-
-See [LICENSE](LICENSE) for full details.
+See the [LICENSE](LICENSE) file for full license details.
 
 ---
 
@@ -756,5 +747,9 @@ For support, email arokiyanithishj@gmail.com or create an issue in the GitHub re
 **#SmartAgriculture #IoT #Arduino #Bluetooth #FarmingRobot #OpenSource #CommunityFarming #EmbeddedSystems**
 
 *Made with ❤️ and Arduino C++ by Arokiya Nithish — For the Farming Community of India* 🌾
+
+*Copyright 2025 Arokiya Nithish J*
+
+*This project is licensed under the Apache License, Version 2.0.*
 
 </div>
