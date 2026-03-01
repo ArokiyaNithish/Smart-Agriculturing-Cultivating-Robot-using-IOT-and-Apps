@@ -592,9 +592,16 @@ Follow the [Pin Mapping Summary](#pin-mapping-summary) above to connect:
 
 ## 🖼️ Prototype & Demo
 
-### Working Prototype
+### Working Prototype Image
+![Prototype of Smart Agriculturing Cultivating Robot](https://github.com/user-attachments/assets/9ed1f4cf-f1fb-4712-97cd-02a38900cf1c)
 
-![Prototype of Smart Agriculturing Cultivating Robot](./Prototype%20of%20Smart%20Agriculturing%20Cultivating%20Robot.jpg)
+
+### Working Prototype (Demo Video)
+
+
+Uploading Video Project 1 (1).mp4…
+
+
 
 > 📷 *The working prototype of the Smart Agriculturing Cultivating Robot, showing the assembled chassis with Arduino UNO, HC-05 Bluetooth module, servo motors, and relay-controlled sprinkler system.*
 
@@ -691,7 +698,7 @@ terms of the Apache License 2.0.
 
 This license also provides an express grant of patent rights from contributors
 to users and protects users from patent litigation.
-
+```
 
 See the [LICENSE](LICENSE) file for full license details.
 
@@ -753,3 +760,4 @@ For support, email arokiyanithishj@gmail.com or create an issue in the GitHub re
 *This project is licensed under the Apache License, Version 2.0.*
 
 </div>
+
