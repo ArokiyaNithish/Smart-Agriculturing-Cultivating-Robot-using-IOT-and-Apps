@@ -712,6 +712,7 @@ See the [LICENSE](LICENSE) file for full license details.
 ### Author
 
 **Arokiya Nithish J**
+- Role : IOT Hardware Developer and Hardware Designer
 - 🎓 B.E. / B.Tech — Electronics & Communication / Computer Science Engineering
 - 📅 Project Year: 2025
 - 💼 Domain: IoT | Embedded Systems | Robotics | Smart Agriculture
@@ -762,6 +763,7 @@ For support, email arokiyanithishj@gmail.com or create an issue in the GitHub re
 *This project is licensed under the Apache License, Version 2.0.*
 
 </div>
+
 
 
 
