@@ -7,7 +7,7 @@
 [![Arduino](https://img.shields.io/badge/Arduino-UNO-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/)
 [![Bluetooth](https://img.shields.io/badge/Bluetooth-HC--05-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white)](https://www.bluetooth.com/)
 [![IoT](https://img.shields.io/badge/IoT-Enabled-green?style=for-the-badge&logo=internetofthings&logoColor=white)](https://en.wikipedia.org/wiki/Internet_of_things)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
+[![Apache License](https://img.shields.io/badge/License-Apache%202.0-D22128?style=for-the-badge&logo=apache&logoColor=white)](LICENSE)
 [![Open Source](https://img.shields.io/badge/Open%20Source-Contribution%20Welcome-brightgreen?style=for-the-badge&logo=github)](https://github.com/)
 [![C++](https://img.shields.io/badge/Language-C%2B%2B%20(Arduino)-blue?style=for-the-badge&logo=cplusplus&logoColor=white)](https://cplusplus.com/)
 
