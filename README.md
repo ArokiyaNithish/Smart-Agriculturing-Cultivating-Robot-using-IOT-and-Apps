@@ -692,16 +692,35 @@ Please use [GitHub Issues](https://github.com/ArokiyaNithish/Smart-Agriculturing
 
 ## 📄 License
 
-This project is licensed under the **Apache License, Version 2.0** — you are free to use, modify, distribute, and build upon this design for educational, personal, or community agricultural purposes with attribution.
+> This is an open-source released under the Apache License to encourage learning, research, and social impact in road safety systems.
+ you are free to use, modify, and distribute this code with attribution.
 
 ```
-You are free to use, modify, and distribute this project for educational,
-personal, commercial, or community agricultural purposes, subject to the
-terms of the Apache License 2.0.
+📄 License
+This project is licensed under the Apache License 2.0 — you are free to use, modify, and distribute this code with proper attribution and compliance with the license terms.
 
-This license also provides an express grant of patent rights from contributors
-to users and protects users from patent litigation.
+Apache License
+Version 2.0, January 2004
+http://www.apache.org/licenses/
+
+Copyright (c) 2026 Arokiya Nithish J & Ishwarya M
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
 ```
+http://www.apache.org/licenses/LICENSE-2.0  
+```
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+```
+
 
 See the [LICENSE](LICENSE) file for full license details.
 
@@ -711,18 +730,24 @@ See the [LICENSE](LICENSE) file for full license details.
 
 ### Author
 
-**Arokiya Nithish J**
-- Role : IOT Hardware Developer and Hardware Designer
-- 🎓 B.E. / B.Tech — Electronics & Communication / Computer Science Engineering
-- 📅 Project Year: 2025
-- 💼 Domain: IoT | Embedded Systems | Robotics | Smart Agriculture
-- 🌾 Project Type: Community Farmer Service Project (Public Good / Open Source)
+### Lead Memeber
 
-**Contacts**
-- GitHub: [@ArokiyaNithish](https://github.com/ArokiyaNithish)
-- LinkedIn: [@Arokiya Nithish J](https://www.linkedin.com/in/arokiya-nithishj/)
-- Email: arokiyanithishj@gmail.com
-- Portfolio: [arokiyanithish.github.io/portfolio/](https://arokiyanithish.github.io/portfolio/)
+**Arokiya Nithish J (Head and Ml Engineer)**
+- 🎓 Department of AI & Data Science — Vel Tech University
+- 💼 Domain: Deep Learning | Computer Vision | IoT | Community Service
+- 🌐 GitHub: [@ArokiyaNithish](https://github.com/ArokiyaNithish)
+- 💼 LinkedIn: [@Arokiya Nithish J](https://www.linkedin.com/in/arokiya-nithishj/)
+- 📧 Email: arokiyanithishj@gmail.com
+- 🌐 Portfolio: [arokiyanithish.github.io/portfolio/](https://arokiyanithish.github.io/portfolio/)
+
+**Ishwarya M(Research and Ml Engineer)**
+- 🎓 Department of AI & Data Science — Vel Tech University
+- 💼 Domain: Deep Learning | Computer Vision | IoT | Community Service
+- 🌐 GitHub: [@Ishwarya M](https://github.com/ishwarya-hub)
+- 💼 LinkedIn: [@Ishwarya M](https://www.linkedin.com/in/ishwaryam13)
+- 📧 Email: ishwarya.m13@gmail.com
+---
+
 
 ### Acknowledgments
 
@@ -746,8 +771,42 @@ See the [LICENSE](LICENSE) file for full license details.
 8. [Smart Agriculture using IoT — Research Overview](https://www.researchgate.net/)
 9. [Bluetooth RC Controller App — Google Play Store](https://play.google.com/store/apps)
 
+
 ---
 
+```
+NOTICE
+
+Project Name: Smart-Agriculturing-Cultivating-Robot-using-IOT-and-Apps
+Copyright (c) 2026 Arokiya Nithish J& Ishwarya M
+
+This product includes software developed by Arokiya Nithish J.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at:
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+---
+
+Modifications
+
+If you have modified this project, you should add a statement here such as:
+
+"This project has been modified by <Your Name/Organization> on <Date>.
+Changes include: <brief description of changes>"
+
+---
+
+END OF NOTICE
+```
 <div align="center">
 
 For support, email arokiyanithishj@gmail.com or create an issue in the GitHub repository.
@@ -758,7 +817,7 @@ For support, email arokiyanithishj@gmail.com or create an issue in the GitHub re
 
 *Made with ❤️ and Arduino C++ by Arokiya Nithish — For the Farming Community of India* 🌾
 
-*Copyright 2025 Arokiya Nithish J*
+*© 2025 — Arokiya Nithish J & Ishwarya M*
 
 *This project is licensed under the Apache License, Version 2.0.*
 
